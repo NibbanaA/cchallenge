@@ -1,0 +1,8 @@
+
+> Type the below command in commandprompt to start node js app 
+
+   npm start
+
+> Type the below URL in the browser to see the out put
+
+  http://localhost:8000
